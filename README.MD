@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Apresentações Google] (https://docs.google.com/presentation)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,18 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título deste  ebook sobre o tema de chatbot nos bancos públicos, o ebook é do nicho de programação, o título deve ser épico e curto, e tenha uma temática futurista no título, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook, com foco no chatbot para bancos públicos, listando as principais ferramentas utilizadas com exemplos e códigos (REGRAS)  Foque em um texto direcionado aos funcionários que trabalham diretamento com atendimento ao público externo. Explique sempre de maneira simples . Deixe o texto enxuto . Sempre traga exemplos de código em contextos reais . Sempre deixe um título sugestivo por tópico
+ 
 
 
-Midjourney：
+| imagem | Por favor crie uma imagem para capa e para servir de fundo para o texto. Imagine um banco seus computadores, seu chat boot, não coloque pessoas na imagem. Utilize o título "IA no Front: Transformando o Atendimento Bancário" para se basear na criação desta imagem.
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ChatGPT
 
 ## 📚 Materiais
 
